@@ -2,7 +2,7 @@
 <h3 align="center">Angular Developer from Egypt</h3>
 
 <p align="left"> <a href="https://twitter.com/nada_h_22" target="blank"><img src="https://img.shields.io/twitter/follow/nada_h_22?logo=twitter&style=for-the-badge" alt="nada_h_22" /></a> </p>
-<p align="left"> <a href="https://www.linkedin.com/in/nada-hassan-b248b7188/" target="blank"><img src="https://img.shields.io/twitter/follow/nada-hassan-b248b7188?logo=linkedin&style=for-the-badge" alt="nada-hassan-b248b7188" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/nada-hassan-b248b7188/" target="blank"><img src="https://img.shields.io/linkedin/follow/nada-hassan-b248b7188?logo=linkedin&style=for-the-badge" alt="nada-hassan-b248b7188" /></a> </p>
 
 <div align=center>
         <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
