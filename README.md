@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working as FreeLancer
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **RXJS**
 
 - 📫 How to reach me **nada.h22425@gmail.com**
 
