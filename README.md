@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I'm Nada Hassan Ismail from Egypt<br><br>- 🔭 I’m working as Angular Developer<br>- 📚 I'm currently learning RXJS, NGRX, GO Language <br>- ⚡ In my free time I Improve my Skills and Learning new Technologies.</p>
+<p align="left">I'm Nada Hassan Ismail from Egypt<br><br>- 🔭 I’m working as Angular Developer<br>- 📚 I'm currently learning NGRX, GO Language <br>- ⚡ In my free time I Improve my Skills and Learning new Technologies.</p>
 
 ###
 
